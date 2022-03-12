@@ -11,7 +11,7 @@
     "Webpack",
     "babel"
   ],
-  "author": "Muhd Mohaiminul Islam <IamMohaiminul>",
+  "author": "Gleb Belskiy <GlebB>",
   "private": false,
   "license": "UNLICENSED",
   "scripts": {
