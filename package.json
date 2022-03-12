@@ -99,7 +99,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com:IamMohaiminul/MERNjs.git"
+    "url": "git+ssh://git@github.com:glebB01/MERNjs.git"
   },
   "homepage": "https://mern.js.org/"
 }
